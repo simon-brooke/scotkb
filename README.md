@@ -7,22 +7,22 @@ and possibly Eth.
 
 ## Rationale
 
-Scots uses a letter, yogh (&yogh;, &Yogh;), which is not present in the modern 
+Scots uses a letter, yogh (&#541;, &#540;), which is not present in the modern 
 English alphabet. Since the late medieval period, printers in Scotland tended 
-to buy their type from typefounders in England, who did not include &yogh;.
+to buy their type from typefounders in England, who did not include &#541;.
 Consequently, it has become common practice to use 'z' in
-place of &yogh;, which leads to confusion in the pronunciation of many words
+place of &#541;, which leads to confusion in the pronunciation of many words
 and, in particular, in names such as
 
-* Cocken&yogh;ie
-* Dal&yogh;iel
-* Men&yogh;ies
-* &Yogh;etland
+* Cocken&#541;ie
+* Dal&#541;iel
+* Men&#541;ies
+* &#540;etland
 
 If you think that native Scots speakers pronounce these words strangely, this 
 is probably why.
 
-As modern computers are perfectly capable of displaying the &yogh; glyph, it 
+As modern computers are perfectly capable of displaying the &#541; glyph, it 
 seems sensible to make it convenient for Scots users to have a keyboard layout
 which makes it convenient to type it.
 
